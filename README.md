@@ -8,4 +8,5 @@ To create  Track, create json file, like this:
   "MusicFilePath":""
 }
 ```
-so in "" after : you should input data of your track. so you can load it from our Player!!!
+so in "" after : you should input data of your track. save it as filename.json. Thats all. you can load it from our Player!!!
+
